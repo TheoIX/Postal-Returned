@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: Postal Returned |cff7fff7f -Ace2-|r
-## Author: Grennon, Anon, Grymskvll, veechs
+## Author: Grennon, Anon, Grymskvll, veechs, Theo
 ## Notes: Improved mailbox functionality
 ## Notes-ruRU: Улучшенный функционал почтового ящика
 ## Version: 1.1.1
